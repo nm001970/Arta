@@ -513,6 +513,9 @@
         align-content: center;
         flex-wrap: wrap;
     }
+    #header-top{
+        height: 8vh;
+    }
     #header-top .messag {
         width: 100%;
         margin-bottom: 10px;
@@ -580,6 +583,9 @@
     #beauti-Text .beauti-text h1 {
         font-size: 18px;
         font-weight: normal;
+    }
+    #article {
+        height: 70vh;
     }
     #article .post .date h2 {
         font-size: 10px;
