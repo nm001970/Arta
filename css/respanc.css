@@ -502,9 +502,9 @@
       }
 }
 @media (max-width: 512px){
-    .container{
-        margin: 0 11px;
-        width: 379px;
+    .container {
+        margin: 0 5px;
+        width: 375px;
     }
     .row {
         display: flex;
